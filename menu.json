@@ -1,0 +1,13 @@
+
+# JSON file storing the menu data.
+# Contains a list of items, each with a name and price attribute.
+{
+    "menu": [
+        {"name": "Chicken Burrito", "price": 8.50},
+        {"name": "Veggie Bowl", "price": 7.25},
+        {"name": "Steak Tacos", "price": 9.00},
+        {"name": "Pizza", "price": 7.50},
+        {"name": "Ice Cream", "price": 5.00},
+        {"name": "Soda", "price": 1.50}
+    ]
+}
